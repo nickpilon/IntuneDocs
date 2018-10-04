@@ -54,6 +54,8 @@ You can create any device categories you want. For example:
 4. On the **Create device category** blade, enter a **Name** for the new category, and an optional **Description**.
 5. When you are done, select **Create**. You can see the new category in the list of categories.
 
+![Create Device Category.](./IntuneDocs/intune/media/Device Category 01.PNG)      
+
 You'll use the device category name when you create Azure Active Directory (Azure AD) security groups in step 2.
 
 ### Step 2: Create Azure Active Directory security groups
